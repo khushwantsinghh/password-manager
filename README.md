@@ -1,6 +1,6 @@
 # 🔐 Password Manager - CLI (Python)
 
-This is a **Command-Line Interface (CLI) Password Manager** made in Python.
+This is a **Command-Line Interface (CLI) Password Manager** built using Python, and deployed on AWS EC2 for real-world usage.
 
 It allows you to:
 - Save encrypted passwords for websites
